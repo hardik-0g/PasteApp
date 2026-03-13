@@ -481,4 +481,3 @@ Potential features that could enhance this project:
 **Hardik Jaiswal**
 
 B.Tech Computer Science Student
-Frontend Developer | React Learner
