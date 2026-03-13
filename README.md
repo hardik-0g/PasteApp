@@ -5,6 +5,11 @@ The application demonstrates **modern React architecture** using **Redux Toolkit
 
 The goal of this project is to show how a frontend application can manage **dynamic data, routing, and persistent state** without a backend.
 
+
+🌐 Live Demo:
+
+https://paste-app-cxv2.vercel.app
+
 ---
 
 # 🎯 Project Objective
